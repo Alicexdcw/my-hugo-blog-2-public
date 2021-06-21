@@ -2,16 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Example Site</title>
-        <link>https://example.com/</link>
+        <link>https://alice-hugo-2.netlify.app/</link>
         <description>Recent content on Example Site</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Wed, 16 Jun 2021 07:57:57 +0800</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 21 Jun 2021 11:20:35 +0800</lastBuildDate><atom:link href="https://alice-hugo-2.netlify.app/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Third</title>
+        <link>https://alice-hugo-2.netlify.app/p/third/</link>
+        <pubDate>Mon, 21 Jun 2021 11:20:35 +0800</pubDate>
+        
+        <guid>https://alice-hugo-2.netlify.app/p/third/</guid>
+        <description>&lt;img src="https://picsum.photos/id/9/1000/500" alt="Featured image of post Third" /&gt;</description>
+        </item>
+        <item>
         <title>My First</title>
-        <link>https://example.com/p/my-first/</link>
+        <link>https://alice-hugo-2.netlify.app/p/my-first/</link>
         <pubDate>Wed, 16 Jun 2021 07:57:57 +0800</pubDate>
         
-        <guid>https://example.com/p/my-first/</guid>
+        <guid>https://alice-hugo-2.netlify.app/p/my-first/</guid>
         <description>&lt;img src="https://picsum.photos/id/9/1000/500" alt="Featured image of post My First" /&gt;&lt;h1 id=&#34;來寫第一篇&#34;&gt;來寫第一篇&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;123456
