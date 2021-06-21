@@ -2,17 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Example Site</title>
-    <link>https://example.com/post/</link>
+    <link>https://alice-hugo-2.netlify.app/post/</link>
     <description>Recent content in Posts on Example Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Jun 2021 07:57:57 +0800</lastBuildDate><atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 21 Jun 2021 11:20:35 +0800</lastBuildDate><atom:link href="https://alice-hugo-2.netlify.app/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Third</title>
+      <link>https://alice-hugo-2.netlify.app/p/third/</link>
+      <pubDate>Mon, 21 Jun 2021 11:20:35 +0800</pubDate>
+      
+      <guid>https://alice-hugo-2.netlify.app/p/third/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>My First</title>
-      <link>https://example.com/p/my-first/</link>
+      <link>https://alice-hugo-2.netlify.app/p/my-first/</link>
       <pubDate>Wed, 16 Jun 2021 07:57:57 +0800</pubDate>
       
-      <guid>https://example.com/p/my-first/</guid>
+      <guid>https://alice-hugo-2.netlify.app/p/my-first/</guid>
       <description>&lt;h1 id=&#34;來寫第一篇&#34;&gt;來寫第一篇&lt;/h1&gt;</description>
     </item>
     
