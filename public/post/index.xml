@@ -17,12 +17,12 @@
     </item>
     
     <item>
-      <title>My First</title>
-      <link>https://alice-hugo-2.netlify.app/p/my-first/</link>
+      <title>第一個</title>
+      <link>https://alice-hugo-2.netlify.app/p/%E7%AC%AC%E4%B8%80%E5%80%8B/</link>
       <pubDate>Wed, 16 Jun 2021 07:57:57 +0800</pubDate>
       
-      <guid>https://alice-hugo-2.netlify.app/p/my-first/</guid>
-      <description>&lt;h1 id=&#34;this-is-a-first-ch&#34;&gt;This is a first ch&lt;/h1&gt;</description>
+      <guid>https://alice-hugo-2.netlify.app/p/%E7%AC%AC%E4%B8%80%E5%80%8B/</guid>
+      <description>&lt;h1 id=&#34;這是第一個&#34;&gt;這是第一個&lt;/h1&gt;</description>
     </item>
     
   </channel>
